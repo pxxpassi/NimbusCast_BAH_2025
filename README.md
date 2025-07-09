@@ -22,8 +22,7 @@ This project follows standard Next.js and React best practices. Component-based 
 3. Run the following commands in the terminal.
 
        npm install --legacy peer
-       npm run build
-       npm run start
+       npm run dev
 
 ## Team
 
